@@ -15,3 +15,11 @@ You can find some of the recommended books to aid in your research below.
 2. [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor Hastie, Rob Tibshirani and Jerome Friedman
 3. [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 4. [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) by Daniel Jurafsky and James H. Martin
+
+
+To do research, you can go through a lot of topics of your interest and gauge how feasible those are in the time frame and whether you have the required expertise for the same. One of the resources that you'll go through in this process is the research papers. As mentioned earlier, since you need not spend a lot of time on one research paper, you should note down the following as you skim through the paper:
+
+1. Go through the abstract; this shall give you a brief overview
+2. Understand the dataset used; see if there is a link to the dataset provided
+3. Look for the methodology used in the research paper; you may need to refer to the discussions and conclusion for this
+4. See if you can pursue something mentioned in the future work as a research
