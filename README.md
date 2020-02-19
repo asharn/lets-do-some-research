@@ -1,4 +1,4 @@
-# Let's Do Some Research!
+# Let's Do Some Research! :)
 This repository will contain each and every thing needed to start research in systematic manner from beginner to expert level.
 
 One of the most important things you'll do during your research is the literature review. One of the essential components of the literature review is reading books. Reading or referring a book for research is not the same as reading a book for the joy of it. While reading a book for research, you should keep in mind the following:
@@ -23,3 +23,6 @@ To do research, you can go through a lot of topics of your interest and gauge ho
 2. Understand the dataset used; see if there is a link to the dataset provided
 3. Look for the methodology used in the research paper; you may need to refer to the discussions and conclusion for this
 4. See if you can pursue something mentioned in the future work as a research
+
+
+
